@@ -1,0 +1,20 @@
+*.d
+*.o
+*.stackdump
+*.swp
+.gdb_history
+header.tab
+header.txt
+qmcalc
+qmcalc.exe
+QualityMetricNames.h
+tags
+UnitTests
+UnitTests.exe
+tokenizer
+tokenizer.exe
+### Begin modification of ignored files (original commented out)
+# *Token.h
+# *Keyword.h
+### End modification of ignored files
+TAGS

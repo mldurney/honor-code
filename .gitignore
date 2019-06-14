@@ -1,0 +1,9 @@
+# Builds
+build/
+bin/
+
+# Google Tests
+tests/lib/
+
+# VS Code files
+.vscode/

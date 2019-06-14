@@ -1,0 +1,4 @@
+#ifndef HC_SRC_WINNOWING_H_
+#define HC_SRC_WINNOWING_H_
+
+#endif  // HC_SRC_WINNOWING_H_

@@ -1,0 +1,4 @@
+#ifndef HC_INCLUDE_ENGINE_H_
+#define HC_INCLUDE_ENGINE_H_
+
+#endif  // HC_INCLUDE_ENGINE_H_

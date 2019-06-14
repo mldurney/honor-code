@@ -1,0 +1,5 @@
+Changes to currently existing or new files are marked in their respective file. For instance, this file was added.
+
+Changes involving deletions of files are as follows:
+    .git files were removed
+    .travisci configuration was removed
